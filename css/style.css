@@ -12,7 +12,7 @@ h1{
   width: 50px;
   height:50px;
   padding:20px;
-  border:4px green;
+  border:4px solid green;
   
 }
 .two{
@@ -21,5 +21,5 @@ h1{
   width: 50px;
   height:50px;
   padding:20px;
-  border:4px green;
+  border:4px solid green;
 }
