@@ -6,3 +6,20 @@ h1{
   color: bisque;
   background-color: red;
 }
+.one{
+  color:yellow;
+  background-color: blue;
+  width: 10px;
+  height:20px;
+  padding:10px;
+  border:4px green;
+  
+}
+.two{
+  color:green;
+  background-color: aqua;
+  width: 10px;
+  height:20px;
+  padding:10px;
+  border:4px green;
+}
