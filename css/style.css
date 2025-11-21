@@ -2,7 +2,7 @@
   margin:0;
   padding:0;
 }
-h1{
+/* h1{
   color: bisque;
   background-color: red;
 }
@@ -22,4 +22,21 @@ h1{
   height:50px;
   padding:20px;
   border:4px solid green;
-}
+} */
+.first .second .third .four{
+        font-size: 30px;
+        color: aqua;
+        line-height: 20px;
+       } 
+        .first + .first  .four {
+        color: green !important ;
+       }
+       .first + .first +.first .four {
+        color: blue !important ;
+       }
+       .first + .first + .first + .first  .four {
+        color: red !important ;
+       }
+       .first + .first +.first + .first +.first .four {
+        color: yellow !important;
+       }
