@@ -76,34 +76,3 @@ body {
 }
 
 
-/* -------------------------------------------
-   2) Create 3 nested div & one heading inside the third nested div 
-   (Copy 5 lines. Give all the heading with diff colors using & class)
-   ------------------------------------------- */
-
-/* Set a border/background to visualize the nested structure */
-.outer-div {
-    width: 400px;
-    padding: 20px;
-    background-color: lightblue;
-    border: 2px solid blue;
-}
-
-.middle-div {
-    padding: 20px;
-    background-color: lightsalmon;
-    border: 2px solid orange;
-}
-
-.inner-div {
-    padding: 20px;
-    background-color: lightgreen;
-    border: 2px solid green;
-}
-
-/* Style for the 5 headings using different classes */
-.inner-div h1 {
-    font-size: 1.5em;
-    margin: 5px 0;
-}
-
