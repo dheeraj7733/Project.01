@@ -81,4 +81,11 @@ body {
   .container-parallel{
     flex-direction: column;
   }
+  .green-box {
+    width:100%;
+}
+
+.red-box {
+    width:100%;
+}
 }
