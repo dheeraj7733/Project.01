@@ -59,6 +59,8 @@ body {
     gap: 10px; /* Space between the two divs */
     margin-bottom: 10px;
     width: 100%;
+   padding:5px;
+   
 }
 
 .box {
