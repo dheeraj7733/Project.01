@@ -77,4 +77,8 @@ body {
     background-image:url(../wwww.png) ;
 }
 
-
+@media (min-width: 576px){
+  .container-parallel{
+    flex-direction: column;
+  }
+}
