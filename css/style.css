@@ -53,17 +53,18 @@ body {
    (same height, width, green & red color)
    ------------------------------------------- */
 
-.container-parallel {
+ .container-parallel {
     /* Use Flexbox to put the divs in parallel */
     display: flex;
     gap: 10px; /* Space between the two divs */
     margin-bottom: 40px;
+    width: 100%;
 }
 
 .box {
     /* Same height and width */
-    width: 150px;
-    height: 150px;
+    width: 50%;
+    height: 450px;
     border: 1px solid #333;
 }
 
@@ -73,6 +74,7 @@ body {
 
 .red-box {
     background-color: red;
+    background-image: ;
 }
 
 
