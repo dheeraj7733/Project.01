@@ -57,7 +57,7 @@ body {
     /* Use Flexbox to put the divs in parallel */
     display: flex;
     gap: 10px; /* Space between the two divs */
-    margin-bottom: 40px;
+    margin-bottom: 10px;
     width: 100%;
 }
 
