@@ -76,6 +76,7 @@ body {
 .red-box {
     background-color: red;
     background-image:url(../wwww.png) ;
+  background-size: cover;
 }
 
 @media (max-width: 576px){
