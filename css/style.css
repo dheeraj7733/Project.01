@@ -12,6 +12,12 @@
   width:20%;
   height:100%;
   background:yellow;
+  display:flex;
+  justify-content:center;
+}
+.logo img{
+  width:auto;
+  height:auto;
 }
 .menu{
   width:70%;
