@@ -16,13 +16,13 @@
 }
 .logo a{
   width:100%;
-  height:auto;
+  height:100%;
   display:flex;
   justify-content:center;
 }
 .logo a img{
   width:auto;
-  height:auto;
+  height:95%;
 }
 .menu{
   width:80%;
